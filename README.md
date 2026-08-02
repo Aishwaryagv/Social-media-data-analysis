@@ -125,7 +125,7 @@ The analysis of the Stack Exchange dataset produced the following insights:
 ---
 
 ### Distribution of Answer Time
-
+![Answer Time Distribution](images/answer_time_distribution.png)
 
 ---
 
