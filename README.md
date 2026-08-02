@@ -119,13 +119,13 @@ The analysis of the Stack Exchange dataset produced the following insights:
 ---
 
 ### Top Tags Answered Within One Hour
-![Quick Response Tags](images/quick_tags.png)
+![Quick Response Tags](quick_tags.png)
 
 
 ---
 
 ### Distribution of Answer Time
-![Answer Time Distribution](images/answer_time_distribution.png)
+![Answer Time Distribution](answer_time_distribution.png)
 
 ---
 
