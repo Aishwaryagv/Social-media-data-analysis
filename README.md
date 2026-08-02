@@ -191,4 +191,4 @@ You can also run the notebook directly in Google Colab:
 
 GitHub: https://github.com/akash-hp-05
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: *(inkedin.com/in/aishwarya-g-v-a43574260)*
