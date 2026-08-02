@@ -119,7 +119,7 @@ The analysis of the Stack Exchange dataset produced the following insights:
 ---
 
 ### Top Tags Answered Within One Hour
-
+![Quick Response Tags](images/quick_tags.png)
 
 
 ---
