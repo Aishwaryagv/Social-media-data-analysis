@@ -112,7 +112,7 @@ The analysis of the Stack Exchange dataset produced the following insights:
 ## 📊 Visualizations
 
 ### Top 10 Most Common Tags
-
+![Top 10 Most Common Tags](top10_tags.png)
 
 
 
